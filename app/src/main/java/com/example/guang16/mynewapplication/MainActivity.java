@@ -2,7 +2,7 @@ package com.example.guang16.mynewapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-//some changes
+//some changes asddsf
 public class MainActivity extends AppCompatActivity {
 
     @Override
